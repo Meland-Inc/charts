@@ -3,23 +3,13 @@ entries:
   course-service:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-12-15T06:37:29.285615806Z"
+    created: "2021-12-15T07:08:40.995676023Z"
     description: backend course-service
-    digest: 2cf801c69a9d5663f453d8449bc81d65e028a061170b74a885b40a2b14008fdb
+    digest: daedb4e478495f96c4821a1e042e20ed73845220f27bfd4169cf43345d61b210
     name: course-service
     type: application
     urls:
     - https://meland-inc.github.io/charts/course-service-0.1.1-debugdebugdebug.tgz
-    version: 0.1.1-debugdebugdebug
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2021-12-15T06:37:29.286875182Z"
-    description: backend course-service
-    digest: c2cb5ec980b766a8d673914fba13a72f66fd5455788e066ecd65bce13b5270c9
-    name: course-service
-    type: application
-    urls:
-    - https://meland-inc.github.io/charts/charts/course-service-0.1.1-debugdebugdebug.tgz
     version: 0.1.1-debugdebugdebug
   - apiVersion: v2
     appVersion: 1.16.0
@@ -31,4 +21,4 @@ entries:
     urls:
     - https://meland-inc.github.io/charts/charts/course-service-0.1.0-debugdebugdebug.tgz
     version: 0.1.0-debugdebugdebug
-generated: "2021-12-15T06:37:29.284704648Z"
+generated: "2021-12-15T07:08:40.995042736Z"
