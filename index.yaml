@@ -16,21 +16,6 @@ entries:
     urls:
     - https://meland-inc.github.io/charts/bellplanet-account-0.1.1.tgz
     version: 0.1.1
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2022-01-07T15:42:48.397797196Z"
-    dependencies:
-    - condition: mysql.localMysqlEnabled
-      name: mysql
-      repository: https://charts.bitnami.com/bitnami
-      version: 8.7.1
-    description: A Helm chart for Kubernetes
-    digest: 39aa7d27ab726d7e9b088c7df05ecf1d36899fa20efcfa533974251a3e3332f1
-    name: bellplanet-account
-    type: application
-    urls:
-    - https://meland-inc.github.io/charts/bian/bellplanet-account-0.1.1.tgz
-    version: 0.1.1
   bellplanet-game:
   - apiVersion: v2
     appVersion: 1.16.0
@@ -68,21 +53,6 @@ entries:
     urls:
     - https://meland-inc.github.io/charts/bellplanet-map-hall-0.1.1.tgz
     version: 0.1.1
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2022-01-07T15:42:48.402380212Z"
-    dependencies:
-    - condition: mysql.localMysqlEnabled
-      name: mysql
-      repository: https://charts.bitnami.com/bitnami
-      version: 8.7.1
-    description: A Helm chart for Kubernetes
-    digest: 569a313deff69d76841dada31018d488358b80907f69b94315fc6b612609adc3
-    name: bellplanet-map-hall
-    type: application
-    urls:
-    - https://meland-inc.github.io/charts/bian/bellplanet-map-hall-0.1.1.tgz
-    version: 0.1.1
   bellplanet-server-list:
   - apiVersion: v2
     appVersion: 1.16.0
@@ -98,21 +68,6 @@ entries:
     type: application
     urls:
     - https://meland-inc.github.io/charts/bellplanet-server-list-0.1.1.tgz
-    version: 0.1.1
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2022-01-07T15:42:48.405758285Z"
-    dependencies:
-    - condition: mysql.localMysqlEnabled
-      name: mysql
-      repository: https://charts.bitnami.com/bitnami
-      version: 8.7.1
-    description: A Helm chart for Kubernetes
-    digest: 06761898b4f356bc1fd9f0e20d24a4479574bd9e3f6d502b38c781325618a188
-    name: bellplanet-server-list
-    type: application
-    urls:
-    - https://meland-inc.github.io/charts/bian/bellplanet-server-list-0.1.1.tgz
     version: 0.1.1
   course-service:
   - apiVersion: v2
@@ -193,13 +148,13 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-01-07T15:42:48.406972779Z"
+    created: "2022-01-07T15:47:13.029324902Z"
     description: egret-planet
     digest: 2e77f430179e0c0a532f18e5e08dc9bf4582cf1fbcd672ee308eccd65ad677ba
     name: egret-planet
     type: application
     urls:
-    - https://meland-inc.github.io/charts/egret-planet/egret-planet-0.1.0.tgz
+    - https://meland-inc.github.io/charts/egret-planet-0.1.0.tgz
     version: 0.1.0
   game-server-manage:
   - apiVersion: v2
@@ -448,4 +403,4 @@ entries:
     urls:
     - https://meland-inc.github.io/charts/services/wechat-service-0.1.1.tgz
     version: 0.1.1
-generated: "2022-01-07T15:42:48.382379322Z"
+generated: "2022-01-07T15:47:13.028671757Z"
