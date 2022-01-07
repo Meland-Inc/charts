@@ -1,0 +1,19 @@
+apiVersion: v1
+entries:
+  omnibus:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-01-07T11:53:28.554011868Z"
+    dependencies:
+    - condition: mysql.localMysqlEnabled
+      name: mysql
+      repository: https://charts.bitnami.com/bitnami
+      version: 8.7.1
+    description: backend omnibus
+    digest: baf99357aa436a196d3314a171692e1308691dacf04c768e93eca39970e9abc9
+    name: omnibus
+    type: application
+    urls:
+    - https://meland-inc.github.io/charts/omnibus/omnibus-0.1.1.tgz
+    version: 0.1.1
+generated: "2022-01-07T11:53:28.550111437Z"
