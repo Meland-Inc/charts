@@ -1,0 +1,47 @@
+apiVersion: v1
+entries:
+  dapr-components:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2022-01-07T13:08:08.098237181Z"
+    description: dapr components
+    digest: a2379e9a4b601df1c7ff36e0039d23d9ee234590c97ca9b723a845a081d1eac2
+    name: dapr-components
+    type: application
+    urls:
+    - https://meland-inc.github.io/charts/dapr-components/dapr-components-0.1.1.tgz
+    version: 0.1.1
+  dapr-fluentd:
+  - apiVersion: v2
+    appVersion: "0.1"
+    created: "2022-01-07T13:08:08.098462645Z"
+    description: A Helm chart for Kubernetes
+    digest: 230455a862f997a5c905f6127613da2fd16dc82acccfe644582016e3a167e54f
+    name: dapr-fluentd
+    type: application
+    urls:
+    - https://meland-inc.github.io/charts/dapr-components/dapr-fluentd-0.1.1.tgz
+    version: 0.1.1
+  dapr-logger:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2022-01-07T13:08:08.098722364Z"
+    description: dapr logger collect
+    digest: 57b7397ae5e792b05213fb654fce1fe407fb0301e557b541a08e5c3cdd1afc1c
+    name: dapr-logger
+    type: application
+    urls:
+    - https://meland-inc.github.io/charts/dapr-components/dapr-logger-0.1.1.tgz
+    version: 0.1.1
+  dapr-logging:
+  - apiVersion: v2
+    appVersion: "0.1"
+    created: "2022-01-07T13:08:08.098931519Z"
+    description: A Helm chart for Kubernetes
+    digest: cfd5d5b83cf462e7cb2245e6d83f887ec26af1494f05552966cc939271f3a2b6
+    name: dapr-logging
+    type: application
+    urls:
+    - https://meland-inc.github.io/charts/dapr-components/dapr-logging-0.1.1.tgz
+    version: 0.1.1
+generated: "2022-01-07T13:08:08.097816902Z"
