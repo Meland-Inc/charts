@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  ipfs:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-01-07T11:51:30.811213585Z"
+    description: A Helm chart for Kubernetes
+    digest: a178d2b4f11999f6f6da42bb74b249cf864dead786e1584f39638dec2c93d1c2
+    name: ipfs
+    type: application
+    urls:
+    - https://meland-inc.github.io/charts/ipfs/ipfs-0.1.1.tgz
+    version: 0.1.1
+generated: "2022-01-07T11:51:30.810589634Z"
