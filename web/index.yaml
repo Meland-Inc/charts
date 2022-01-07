@@ -1,0 +1,80 @@
+apiVersion: v1
+entries:
+  web-auth:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-01-07T11:51:35.216241182Z"
+    description: A Helm chart for Kubernetes
+    digest: 47c0468176185c7d8e282a9d64b617a20bf3204af4bebd1723c09b7a0906962c
+    name: web-auth
+    type: application
+    urls:
+    - https://meland-inc.github.io/charts/web/web-auth-0.1.1.tgz
+    version: 0.1.1
+  web-classx:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-01-07T11:51:35.216689798Z"
+    description: A Helm chart for Kubernetes
+    digest: 5f56d135908bdfdc8f4a07308eb9b7fffa7a32f28b4a55ceb7d016351c54fce8
+    name: web-classx
+    type: application
+    urls:
+    - https://meland-inc.github.io/charts/web/web-classx-0.1.1.tgz
+    version: 0.1.1
+  web-courselist:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-01-07T11:51:35.21715726Z"
+    description: A Helm chart for Kubernetes
+    digest: 47a4c5d8bc26e27c36317f7580d01326f5c2754bdd29da009d92fbc77b4fe463
+    name: web-courselist
+    type: application
+    urls:
+    - https://meland-inc.github.io/charts/web/web-courselist-0.1.1.tgz
+    version: 0.1.1
+  web-education:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-01-07T11:51:35.217589568Z"
+    description: A Helm chart for Kubernetes
+    digest: a0731ff0787a48bcc0ab8128092068ce3eddada8751dd5f27502a694e36debd9
+    name: web-education
+    type: application
+    urls:
+    - https://meland-inc.github.io/charts/web/web-education-0.1.1.tgz
+    version: 0.1.1
+  web-planetbox:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-01-07T11:51:35.218015803Z"
+    description: A Helm chart for Kubernetes
+    digest: a8ded4fb0b73ce25d742660c6978f899f9c1c08bf117caf3d6f19fc6aa0ce591
+    name: web-planetbox
+    type: application
+    urls:
+    - https://meland-inc.github.io/charts/web/web-planetbox-0.1.1.tgz
+    version: 0.1.1
+  web-pythoneditor:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-01-07T11:51:35.218442345Z"
+    description: A Helm chart for Kubernetes
+    digest: dfcb843a3c31a51e284ec56636a844243c23180a56fdbf432f2d41fff67e9d5a
+    name: web-pythoneditor
+    type: application
+    urls:
+    - https://meland-inc.github.io/charts/web/web-pythoneditor-0.1.1.tgz
+    version: 0.1.1
+  web-runtime:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-01-07T11:51:35.218878565Z"
+    description: A Helm chart for Kubernetes
+    digest: 240b084794136ecf216f2c0928574d4e4c1bf9c7733f648e56161af9be2c833f
+    name: web-runtime
+    type: application
+    urls:
+    - https://meland-inc.github.io/charts/web/web-runtime-0.1.1.tgz
+    version: 0.1.1
+generated: "2022-01-07T11:51:35.215512969Z"
