@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  graph-node:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-01-07T11:51:28.316049329Z"
+    description: A Helm chart for Kubernetes
+    digest: e437c739aa91ea3514f539ab833b485543c1ce0781132e6f52a49e905526e730
+    name: graph-node
+    type: application
+    urls:
+    - https://meland-inc.github.io/charts/graph-node/graph-node-0.1.1.tgz
+    version: 0.1.1
+generated: "2022-01-07T11:51:28.315389283Z"
