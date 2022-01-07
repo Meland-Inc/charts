@@ -1,0 +1,135 @@
+apiVersion: v1
+entries:
+  course-service:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-01-07T11:51:47.75217714Z"
+    description: backend course-service
+    digest: 00e512bc6fe21f9fedea307fd0d54853b76a8c351ecd975ae728dc93ac1b3bd3
+    name: course-service
+    type: application
+    urls:
+    - https://meland-inc.github.io/charts/services/course-service-0.1.1.tgz
+    version: 0.1.1
+  data-acquisition-service:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-01-07T11:51:47.752608461Z"
+    description: backend data-acquisition-service
+    digest: 4df9e186cb4d9420688402de61128ff40ef845379445f00fcf6cfa73b7e18056
+    name: data-acquisition-service
+    type: application
+    urls:
+    - https://meland-inc.github.io/charts/services/data-acquisition-service-0.1.1.tgz
+    version: 0.1.1
+  image-service:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-01-07T11:51:47.753039322Z"
+    description: backend image-service
+    digest: 4662b69de6b39a6dea4a71bffd25833f65a4f0ae702b35648625410a66675954
+    name: image-service
+    type: application
+    urls:
+    - https://meland-inc.github.io/charts/services/image-service-0.1.1.tgz
+    version: 0.1.1
+  lesson-template-service:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-01-07T11:51:47.753482745Z"
+    description: backend lesson-template-service
+    digest: 25979267d7f3dbd6bbc83426b7a6eda8dae547945f94c6b0d6e97fd5f301a2df
+    name: lesson-template-service
+    type: application
+    urls:
+    - https://meland-inc.github.io/charts/services/lesson-template-service-0.1.1.tgz
+    version: 0.1.1
+  meland-service:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-01-07T11:51:47.753899092Z"
+    description: backend meland-service
+    digest: 159e56b48a9f8b345fb4bc74c1ad80334e21773bf9ed6a8be9837861f06b333b
+    name: meland-service
+    type: application
+    urls:
+    - https://meland-inc.github.io/charts/services/meland-service-0.1.1.tgz
+    version: 0.1.1
+  mingdao-service:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-01-07T11:51:47.754341447Z"
+    description: backend mingdao-service
+    digest: 3093615f0b51d77803abd3996b0255a06a8253824d6f163719b1cafde9614716
+    name: mingdao-service
+    type: application
+    urls:
+    - https://meland-inc.github.io/charts/services/mingdao-service-0.1.1.tgz
+    version: 0.1.1
+  nftmetadata-service:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-01-07T11:51:47.754773329Z"
+    description: backend nftmetadata-service
+    digest: 62aa1bc547c9cc6bb0b9bda2e5e1676bbe419cb45b44224e374eeb8bdc37f758
+    name: nftmetadata-service
+    type: application
+    urls:
+    - https://meland-inc.github.io/charts/services/nftmetadata-service-0.1.1.tgz
+    version: 0.1.1
+  resource-box:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-01-07T11:51:47.755213552Z"
+    description: backend resource-box
+    digest: 2116ddaf794cf42a2467f33c6785c89786dbff2250250f60b4b4d2267e0b37fb
+    name: resource-box
+    type: application
+    urls:
+    - https://meland-inc.github.io/charts/services/resource-box-0.1.1.tgz
+    version: 0.1.1
+  school-service:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-01-07T11:51:47.755675806Z"
+    description: backend school-service
+    digest: 9f8548ccf9d69e061c6969cb0a99ef818740941a9adcda0d4a01c179c3a44a66
+    name: school-service
+    type: application
+    urls:
+    - https://meland-inc.github.io/charts/services/school-service-0.1.1.tgz
+    version: 0.1.1
+  sse-service:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-01-07T11:51:47.756114006Z"
+    description: backend sse-service
+    digest: 0765b8795754ee391bc6c0cd85e3b6bad6873b748b8b63401348cc55bc03566e
+    name: sse-service
+    type: application
+    urls:
+    - https://meland-inc.github.io/charts/services/sse-service-0.1.1.tgz
+    version: 0.1.1
+  user-service:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-01-07T11:51:47.75658289Z"
+    description: backend user-service
+    digest: b2be9d3bb3229e50bba16360c227ae76a19aa8d3f5a9b7d7d623402db0d9a17b
+    name: user-service
+    type: application
+    urls:
+    - https://meland-inc.github.io/charts/services/user-service-0.1.1.tgz
+    version: 0.1.1
+  wechat-service:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-01-07T11:51:47.757062416Z"
+    description: backend wechat-service
+    digest: 46f9cf7cab987348165d94d2fcd5cca87eae21511007918839a4733c7fedfde4
+    name: wechat-service
+    type: application
+    urls:
+    - https://meland-inc.github.io/charts/services/wechat-service-0.1.1.tgz
+    version: 0.1.1
+generated: "2022-01-07T11:51:47.751581014Z"
