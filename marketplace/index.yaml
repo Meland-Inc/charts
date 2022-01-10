@@ -3,12 +3,12 @@ entries:
   marketplace:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-01-07T11:51:31.426606293Z"
+    created: "2022-01-10T09:21:16.738298913Z"
     description: A Helm chart for Kubernetes
-    digest: e4aac4161a0860e6874a088b0a1917445d41d68dd678bd9e9180f751d7cd08a2
+    digest: 0013556065dd6860338d909a84a129df17b73175eec3b9a31947b6db44809f30
     name: marketplace
     type: application
     urls:
     - https://meland-inc.github.io/charts/marketplace/marketplace-0.1.1.tgz
     version: 0.1.1
-generated: "2022-01-07T11:51:31.426059326Z"
+generated: "2022-01-10T09:21:16.737749536Z"
