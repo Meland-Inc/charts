@@ -3,6 +3,16 @@ entries:
   game-server-manage:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2022-01-10T02:05:00.803736112Z"
+    description: A Helm chart for Kubernetes
+    digest: 16d69a58d0b8d113567dc2652ba5c520e6a9f47e7f266b406cfa259fb9e39efa
+    name: game-server-manage
+    type: application
+    urls:
+    - https://meland-inc.github.io/charts/game-server-manage/game-server-manage-0.1.7.tgz
+    version: 0.1.7
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2022-01-07T11:49:49.024610314Z"
     description: A Helm chart for Kubernetes
     digest: 51f35ec36110c3e87b5b2702c0f7a708a0116dddc3adf9295404c6790604a805
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://meland-inc.github.io/charts/game-server-manage/game-server-manage-0.1.1.tgz
     version: 0.1.1
-generated: "2022-01-07T11:49:49.023981913Z"
+generated: "2022-01-10T02:05:00.803179101Z"
