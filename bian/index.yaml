@@ -19,6 +19,16 @@ entries:
   bellplanet-game:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2022-01-22T05:39:03.968479168Z"
+    description: A Helm chart for Kubernetes
+    digest: 3702083e7a06463268373535f862f473705fdcfd878f043643ec3c5abe2b033c
+    name: bellplanet-game
+    type: application
+    urls:
+    - https://meland-inc.github.io/charts/bian/bellplanet-game-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2022-01-07T11:49:28.882375451Z"
     description: A Helm chart for Kubernetes
     digest: 2cdd5b26496e2952759d2605f3a6473ce610431bec10495687fc792d5b1f08fe
@@ -59,4 +69,4 @@ entries:
     urls:
     - https://meland-inc.github.io/charts/bian/bellplanet-server-list-0.1.1.tgz
     version: 0.1.1
-generated: "2022-01-07T11:49:28.878189612Z"
+generated: "2022-01-22T05:39:03.967368444Z"
