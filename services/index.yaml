@@ -47,6 +47,16 @@ entries:
   meland-service:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2022-02-23T12:55:57.930350979Z"
+    description: backend meland-service
+    digest: 99725a484b4a8f7c40fbae11304c33121272cce856651379fa48603bfabb7394
+    name: meland-service
+    type: application
+    urls:
+    - https://meland-inc.github.io/charts/services/meland-service-0.1.8.tgz
+    version: 0.1.8
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2022-02-23T11:06:31.034246465Z"
     description: backend meland-service
     digest: 3b8fd19f7cabf0ae04be1078cff7fb87ef0e79cf0a0d2ca8870f429404e78db3
@@ -152,4 +162,4 @@ entries:
     urls:
     - https://meland-inc.github.io/charts/services/wechat-service-0.1.1.tgz
     version: 0.1.1
-generated: "2022-02-23T11:06:31.033697232Z"
+generated: "2022-02-23T12:55:57.929804991Z"
