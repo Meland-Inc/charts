@@ -13,7 +13,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-02-22T08:29:56.619261597Z"
+    created: "2022-02-24T02:53:32.997673133Z"
     description: egret-planet
     digest: 2e77f430179e0c0a532f18e5e08dc9bf4582cf1fbcd672ee308eccd65ad677ba
     name: egret-planet
@@ -21,4 +21,4 @@ entries:
     urls:
     - https://meland-inc.github.io/charts/egret-planet/egret-planet-0.1.0.tgz
     version: 0.1.0
-generated: "2022-02-22T08:29:56.618611366Z"
+generated: "2022-02-24T02:53:32.99710055Z"
