@@ -3,6 +3,21 @@ entries:
   bellplanet-account:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2022-04-06T07:24:08.69933101Z"
+    dependencies:
+    - condition: mysql.localMysqlEnabled
+      name: mysql
+      repository: https://charts.bitnami.com/bitnami
+      version: 8.7.1
+    description: A Helm chart for Kubernetes
+    digest: 2f5a26adbf6809a57b0bd816f728882b004f9625214747e5fd5efb40f5d0982a
+    name: bellplanet-account
+    type: application
+    urls:
+    - https://meland-inc.github.io/charts/bian/bellplanet-account-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2022-01-07T11:49:28.881869341Z"
     dependencies:
     - condition: mysql.localMysqlEnabled
@@ -69,4 +84,4 @@ entries:
     urls:
     - https://meland-inc.github.io/charts/bian/bellplanet-server-list-0.1.1.tgz
     version: 0.1.1
-generated: "2022-01-22T05:39:03.967368444Z"
+generated: "2022-04-06T07:24:08.695811685Z"
