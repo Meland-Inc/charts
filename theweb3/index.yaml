@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  pvp-service:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-04-19T06:45:08.992416128Z"
+    description: A Helm chart for Kubernetes
+    digest: 0fb09a5e3873c9c560b60e3413439cfc39bb345a5bd2d1bdb3e9285e3c4cd5a6
+    name: pvp-service
+    type: application
+    urls:
+    - https://meland-inc.github.io/charts/theweb3/pvp-service-0.1.2.tgz
+    version: 0.1.2
+generated: "2022-04-19T06:45:08.991740814Z"
