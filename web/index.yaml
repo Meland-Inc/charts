@@ -69,6 +69,16 @@ entries:
   web-runtime:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2022-05-24T07:55:57.360391687Z"
+    description: A Helm chart for Kubernetes
+    digest: 0aabb5e0367efbcd457b0e2bd5e9640ae6752e02ea14c1cc2637fc022b44a4e2
+    name: web-runtime
+    type: application
+    urls:
+    - https://meland-inc.github.io/charts/web/web-runtime-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2022-01-07T11:51:35.218878565Z"
     description: A Helm chart for Kubernetes
     digest: 240b084794136ecf216f2c0928574d4e4c1bf9c7733f648e56161af9be2c833f
@@ -77,4 +87,4 @@ entries:
     urls:
     - https://meland-inc.github.io/charts/web/web-runtime-0.1.1.tgz
     version: 0.1.1
-generated: "2022-01-07T11:51:35.215512969Z"
+generated: "2022-05-24T07:55:57.359812768Z"
